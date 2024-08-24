@@ -1,0 +1,6 @@
+Câu 1:
+Ngồi tìm template front-end và chỉnh sửa thêm vài thứ ở backend ví dụ như thêm payment,phát sinh lỗi thì sửa lỗi.
+Câu 2:
+hôm nay sẽ tìm template của thẻ card tiếp và phần template của bookACar. 
+Câu 3:
+Từ mai tới thứ hai sẽ hoàn thành nốt việc trên và có thể sẽ thêm vài thứ trong backend.
